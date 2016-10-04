@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TempConvert:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tempconvert.war">
+      <element id="artifact" artifact-name="TempConvert:war exploded" />
+    </root>
+  </artifact>
+</component>
